@@ -1,0 +1,21 @@
+.header-nav{
+    background: #7465B4;
+}
+.logout-text{
+    color: #fff;
+    font-size: 13px;
+    text-decoration: unset;
+    margin-left: 1rem;
+    margin-top: 3px;
+}
+.logout-text:hover{
+    color: #fff;
+    font-weight: 500;
+}
+.header-nav .username{
+    color: #797979;
+    font-weight: 600;
+    background: #F1F1F1;
+    padding: 2px 5px;
+    border-radius: 20px;
+}

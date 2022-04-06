@@ -1,0 +1,120 @@
+.user-card{
+    background: #7465B4;
+    border-radius: 5px;
+    padding: 2rem;
+}
+.user-shortname{
+    background-color: #EEEBFA;
+    color: #7465B4;
+    width: 75px;
+    height: 75px;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 50%;
+    padding-top: 1.1rem;
+}
+.user-info h6{
+    color: #fff;
+    margin-bottom: 5px;
+}
+.user-info p{
+    color: #fff;
+    font-size: 12px;
+}
+.user-card-info{
+    color: #fff;
+    font-size: 14px;
+}
+
+.user-card-info p{
+    margin-top: 2rem;
+    font-size: 13px;
+    color: #C4C4C4;
+}
+.medical-cards{
+    padding: 1rem .5rem;
+}
+.medical-cards .edit-icon{
+    color: #7465B4;
+    font-size: 12px;
+}
+.user-card-info .edit-icon{
+    font-size: 12px;
+}
+.medical-cards .heading-txt{
+    color: #000000;
+    font-size: 14px;
+}
+/* .medical-cards .heading-txt span, .medical-cards .heading-txt2 span{
+    margin-top: 10px;
+} */
+.medical-cards .heading-txt2{
+    color: #DBB24A;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.medical-cards p{
+    color: #646464;
+    font-size: 12px;
+    margin-top: 1rem;
+    
+}
+.medical-history{
+    margin-top: 1.5rem;
+}
+.medical-history div{
+    background: #FFF7ED;
+    padding: 5px 15px;
+    margin: 7px 0;
+    font-size: 11px;
+    display: flex;
+}
+.medical-history div .span1{
+    width: 60%;
+    display: block;
+}
+.medical-history div .span2{
+    width: 40%;
+    display: block;
+}
+.user-card-info .icons, .medical-cards .icons{
+    width: 15px;
+    margin-right: 8px;
+}
+.pagination{
+    padding: 1rem 0;
+    display: block !important;
+}
+.pagination .page-item{
+    text-decoration: unset;
+    color: #fff;
+    width: 25px;
+    background: #C9BCFF;
+    border-radius: 50%;
+    text-align: center;
+    margin-right: 7px;
+    padding: 2px 8px;
+}
+.pagination .page-item.active{
+    background: #7465B4 !important;
+}
+.insider {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 12px;
+    font-weight: 100;
+    margin: 1rem;
+}
+.pdf {
+    font-size: 12px;
+    font-weight: 100;
+    margin:1rem;
+}
+img {
+    margin: 1rem;
+
+    width: 1.5rem;
+}

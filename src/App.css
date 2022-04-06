@@ -1,0 +1,14 @@
+body, html{
+  height: 100%;
+}
+.loginreg img{
+  width: 100%;
+  height: 100vh;
+}
+
+@media only screen and (max-width: 425px) {
+  .loginreg img{
+    width: 100%;
+    height: unset;
+  }
+}

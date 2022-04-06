@@ -1,0 +1,74 @@
+.loginbody .row{
+    margin: 0px;
+}
+
+.loginbody .row>*{
+    padding: unset !important;
+}
+.login-form{
+    padding: 3rem 6rem;
+}
+.login-form h2{
+    color: #7465B4;
+}
+.login-form .text{
+    color: #7465B4;
+    font-size: 14px;
+}
+.login-btn{
+    background: #AA9BE8;
+    width: 100%;
+    border: none;
+    padding: 10px;
+    border-radius: 7px;
+    color: #fff;
+    font-weight: 500;
+}
+.google-btn{
+    background: #FFF;
+    width: 100%;
+    border: 1px solid #E5E5E5;
+    padding: 8px;
+    border-radius: 7px;
+    color: #333;
+}
+.login-form .form-label{
+    color: #8B8B8B !important;
+}
+.google-btn img{
+    width: 28px;
+    margin-right: 5px !important;
+}
+.forgot-password{
+    color: #7465B4 !important;
+    font-size: 12px;
+}
+.or-text{
+    margin-bottom: 10px !important;
+}
+.checkbox-form{
+    display: inline-flex;
+}
+.checkbox-form .agree-text{
+    margin-left: 5px;
+    margin-top: 2px;
+}
+.checkbox-form .agree-text span{
+    color: #F0A763;
+}
+.register-text{
+    text-decoration: unset;
+    color: #7465B4;
+}
+
+@media only screen and (max-width: 1199px) {
+    .login-form{
+        padding: 3rem 4rem;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .login-form{
+        padding: 3rem 3rem;
+    }
+}
